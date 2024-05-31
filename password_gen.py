@@ -32,6 +32,6 @@ def crack(arr, length):
         a = generate(arr, i, "", length)
     return
 
-arr = ['red', 'car', 'rivera','1996','Corvette', 'john']
+arr = ['red', 'car', 'rivera','1996','Corvette', 'john'] #represents the list of keywords to generate the password list
 length = len(arr)
 possible_passwords=crack(arr, length)
