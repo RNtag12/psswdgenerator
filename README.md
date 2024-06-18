@@ -66,6 +66,6 @@ possible_passwords = crack(arr, length)
 
 1. **Prepare the Environment**: Ensure Python is installed on your system. Create a new directory for the project and navigate to it.
 2. **Create the Script**: Copy the provided code into a Python script file (e.g., `password_generator.py`).
-3. **Run the Script**: Execute the script using the command `python password_generator.py`. This will generate the passwords and store them in `passwords.txt`.
+3. **Run the Script**: Execute the script using the command `python password_gen.py`. This will generate the passwords and store them in `passwords.txt`.
 4. **Review the Output**: Open `passwords.txt` to review the generated passwords. The file will contain all possible combinations of the given keywords.
 
